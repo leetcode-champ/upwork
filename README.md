@@ -1,4 +1,4 @@
-green dot # upwork
+# upwork
 
 This is my first work exp
 
